@@ -1,4 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQGZXIacYqC3gg/profile-displaybackgroundimage-shrink_350_1400/0/1682094741912?e=1687996800&v=beta&t=yaxKMXa1K9Xb_yw12igQSILVf4xd1qhDk9Ruja8ZKkI)](https://www.linkedin.com/in/nestor-cicardini-fullstack-developer/)
+
+[![Linkedin RetroWave Banner](https://github.com/Nestor162/Nestor162/assets/113930607/959ad232-141b-4ab2-bdef-cfe43245b753)](https://www.linkedin.com/in/nestor-cicardini-fullstack-developer/)
+
 <h1 align="center">👋 Hola! I'm Nestor Cicardini</h1>
 <h3 align="center">A passionate Full-Stack developer from Argentina 🇦🇷</h3>
 
