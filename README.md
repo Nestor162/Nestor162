@@ -18,11 +18,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,sass,react,redux,nextjs,vercel,vite,java,kotlin,spring,maven,mysql,postgres,postman,git,androidstudio,vscode,eclipse,idea,ps&perline=6)](https://nestor-cicardini.vercel.app/#skills)
+[![Nestor's Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,sass,react,redux,nextjs,vercel,vite,java,kotlin,spring,maven,mysql,postgres,postman,git,androidstudio,vscode,eclipse,idea,ps&perline=6)](https://nestor-cicardini.vercel.app/#skills)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nestor162&show_icons=true&locale=en&layout=compact" alt="nestor162" /></p>
+<a href="https://github.com/nestor162">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nestor162&show_icons=true&theme=jolly" />
+</a>
+<a href="https://github.com/nestor162">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestor162&layout=compact&theme=jolly" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nestor162&show_icons=true&locale=en" alt="nestor162" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nestor162&" alt="nestor162" /></p>
+[![Nestor's Streak](https://streak-stats.demolab.com?user=nestor162&theme=jolly)](https://git.io/streak-stats)
 
