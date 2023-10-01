@@ -22,13 +22,13 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 <a href="https://nestor-cicardini.vercel.app/#projects">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=nestor162&show_icons=true&theme=jolly" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nestor162&show_icons=true&theme=jolly" />
 </a>
 <a href="https://nestor-cicardini.vercel.app/#projects">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestor162&layout=compact&theme=jolly" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nestor162&layout=compact&theme=jolly" />
 </a>
 <a href="https://nestor-cicardini.vercel.app/#projects">
-  <img width="500" src="https://streak-stats.demolab.com?user=nestor162&theme=jolly" />
+  <img width="467" src="https://streak-stats.demolab.com?user=nestor162&theme=jolly" />
 </a>
 </div>
 
