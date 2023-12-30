@@ -1,5 +1,5 @@
 
-[![Linkedin RetroWave Banner](https://github.com/Nestor162/Nestor162/assets/113930607/959ad232-141b-4ab2-bdef-cfe43245b753)](https://www.linkedin.com/in/nestor-cicardini-fullstack-developer/)
+[![Linkedin RetroWave Banner](https://github.com/Nestor162/Nestor162/assets/113930607/ed0b927b-4e0c-410c-847a-93a8a0591862)](https://www.linkedin.com/in/nestor-cicardini-fullstack-developer/)
 
 <h1 align="center">👋 Hola! I'm Nestor Cicardini</h1>
 <h3 align="center">A passionate Full-Stack developer from Argentina 🇦🇷</h3>
