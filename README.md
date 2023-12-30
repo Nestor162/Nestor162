@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Nestor's Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,sass,react,redux,nextjs,vercel,vite,java,kotlin,spring,maven,mysql,postgres,postman,git,androidstudio,vscode,eclipse,idea,ps&perline=6)](https://nestor-cicardini.vercel.app/#skills)
+[![Nestor's Skills](https://skillicons.dev/icons?i=js,react,nextjs,java,py,html,css,tailwind,bootstrap,sass,redux,vite,kotlin,spring,maven,mysql,postgres,postman,git,vscode,eclipse&perline=6)](https://nestor-cicardini.vercel.app/#skills)
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 <a href="https://nestor-cicardini.vercel.app/#projects">
